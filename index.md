@@ -1,6 +1,7 @@
 ## Welcome to GitHub Pages
 
 ![Screenshot of OpenRefine, GREL](https://github.com/Digital-Scholarship-Hub/IntroductionOpenRefine/blob/gh-pages/docs/assets/images/OpenRefine_Test.png)
+![test](https://github.com/Digital-Scholarship-Hub/IntroductionOpenRefine/blob/main/docs/assets/images/OpenRefine_Test.png)
 
 <img src="https://github.com/Digital-Scholarship-Hub/IntroductionOpenRefine/blob/gh-pages/docs/assets/images/OpenRefine_Test.png" alt="hi" class="inline"/>
 
