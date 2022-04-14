@@ -1,6 +1,7 @@
 ## Welcome to GitHub Pages
 
 ![Screenshot of OpenRefine, GREL](IntroductionOpenRefine/blob/gh-pages/docs/assets/images/OpenRefine_Test.png)
+[[https://github.com/Digital-Scholarship-Hub/IntroductionOpenRefine/blob/gh-pages/docs/assets/images/OpenRefine_Test.png|alt = screenshot]]
 
 You can use the [editor on GitHub](https://github.com/Digital-Scholarship-Hub/IntroductionOpenRefine/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
