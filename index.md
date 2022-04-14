@@ -3,6 +3,8 @@
 ![Screenshot of OpenRefine, GREL](IntroductionOpenRefine/blob/gh-pages/docs/assets/images/OpenRefine_Test.png)
 [[https://github.com/Digital-Scholarship-Hub/IntroductionOpenRefine/blob/gh-pages/docs/assets/images/OpenRefine_Test.png]]
 
+<img src="https://github.com/Digital-Scholarship-Hub/IntroductionOpenRefine/blob/gh-pages/docs/assets/images/OpenRefine_Test.png" alt="hi" class="inline"/>
+
 You can use the [editor on GitHub](https://github.com/Digital-Scholarship-Hub/IntroductionOpenRefine/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
