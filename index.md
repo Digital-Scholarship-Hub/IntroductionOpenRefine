@@ -1,10 +1,8 @@
 ## Welcome to GitHub Pages
 
 ![Screenshot of OpenRefine](docs/assets/images/OpenRefine_Test.png)
-![test](https://github.com/Digital-Scholarship-Hub/IntroductionOpenRefine/blob/main/docs/assets/images/OpenRefine_Test.png)
 
 <img src="{{ "/docs/assets/images/OpenRefine_Test.png" | relative_url }}" alt="This is a test">
-<img src="https://github.com/Digital-Scholarship-Hub/IntroductionOpenRefine/blob/gh-pages/docs/assets/images/OpenRefine_Test.png" alt="hi" class="inline"/>
 
 You can use the [editor on GitHub](https://github.com/Digital-Scholarship-Hub/IntroductionOpenRefine/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
