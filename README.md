@@ -1,3 +1,8 @@
 # IntroductionOpenRefine
 
-https://digital-scholarship-hub.github.io/IntroductionOpenRefine/
+Introduction to OpenRefine Workshop. 
+
+
+
+
+
