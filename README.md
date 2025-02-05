@@ -1,4 +1,4 @@
-# Introduction to OpenRefine Workshop
+# Data Wrangling Made Easy: an introduction to OpenRefine
 
 Please download the following dataset for the workshop and save it to your computer: https://ndownloader.figshare.com/files/11502815 
 
@@ -7,7 +7,8 @@ You will also need to Install OpenRefine on your machine prior to the workshop. 
 [2. Installing OpenRefine](https://docs.openrefine.org/manual/installing)
 
 
-There is a step-by-step guide for this workshop, so you do not have to worry about taking notes: [Introduction to OpenRefine Guide](https://github.com/Digital-Scholarship-Hub/IntroductionOpenRefine/files/9937132/Introduction.to.OpenRefine_guide_nov2022.pdf)
+There is a step-by-step guide for this workshop, so you do not have to worry about taking notes: [Data Wrangling Made Easy Feb 2025.pdf](https://github.com/user-attachments/files/18676442/Data.Wrangling.Made.Easy.Feb.2025.pdf)
+ Guide]
 
 
 Attribution for the workshop:
