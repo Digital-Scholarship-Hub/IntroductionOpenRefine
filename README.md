@@ -7,8 +7,7 @@ You will also need to Install OpenRefine on your machine prior to the workshop. 
 [2. Installing OpenRefine](https://docs.openrefine.org/manual/installing)
 
 
-There is a step-by-step guide for this workshop, so you do not have to worry about taking notes: [Data Wrangling Made Easy Feb 2025.pdf](https://github.com/user-attachments/files/18676442/Data.Wrangling.Made.Easy.Feb.2025.pdf)
- Guide]
+There is a step-by-step guide for this workshop, so you do not have to worry about taking notes: [Data Wrangling Made Easy Feb 2025](https://github.com/user-attachments/files/18676442/Data.Wrangling.Made.Easy.Feb.2025.pdf)
 
 
 Attribution for the workshop:
